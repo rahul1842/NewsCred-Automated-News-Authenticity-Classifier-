@@ -1,4 +1,5 @@
-# 📰 Spam News Detection using NLP and Multinomial Naive Bayes
+# 📰 NewsCred – Automated News Authenticity Classifier 
+Using NLP and Multinomial Naive Bayes
 
 This project focuses on detecting fake or spam news articles using Natural Language Processing (NLP) techniques and the Multinomial Naive Bayes classifier. It involves data preprocessing, feature extraction with TF-IDF, and classification of news articles as real or fake.
 
